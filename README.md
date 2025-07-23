@@ -17,7 +17,7 @@ In the dynamic world of retail, accurate sales predictions are crucial for optim
 I've embarked on a journey to build a robust sales prediction model that considers a multitude of variables. My data preprocessing pipeline handles categorical and numeric features with finesse, including clever strategies for encoding, one-hot encoding, and scaling. But I didn't stop there!
 
 
-[screencast-127.0.0.1_5000-2023.09.06-18_59_33.webm](https://github.com/Fortunatetech/Stores-Sales-Prediction-ML-Project/assets/104451288/82d3211b-9224-45c9-967b-6213aab3402a)
+[screencast-127.0.0.1_5000-2023.09.06-18_59_33.webm](https://github.com/roya-ghasemi/Stores-Sales-Prediction-ML/assets/104451288/82d3211b-9224-45c9-967b-6213aab3402a)
 
 ## Taking Flight with Flask
 
